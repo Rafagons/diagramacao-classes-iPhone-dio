@@ -23,9 +23,9 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
 ## 📊 Meu Diagrama UML
-<p align="center">
-  ![image]()
-</p>
+
+  ![image](https://github.com/Rafagons/diagramacao-classes-iPhone-dio/blob/97b1fe21a1f32732f6db11a77378d0f2fd183dc7/docs/Modelagem%20Iphone.png)
+
 
 
 Como opcional eu implementei as classes e interfaces nesse projeto. Aqui explicarei detalhadamenete cada classe representada no meu diagrama de classe do projeto. Cada classe desempenha um papel específico e contribui para a funcionalidade global do sistema.
